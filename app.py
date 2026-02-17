@@ -23,4 +23,4 @@ if st.button("Submit Guess"):
     elif guess > st.session_state.number:
         st.warning("Too high! Try again.")
     else:
-        st.success("🎉 Congratulations! You guessed the correct number!
+        st.success("🎉 Congratulations! You guessed the correct number!")
