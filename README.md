@@ -18,14 +18,21 @@ Random Module
 
 ## Features
 
+
 Random number generation
+
 
 Interactive user input
 
+
 Feedback (Too High / Too Low)
+
 
 Attempt counter
 
+
 Play Again option
 
+
 Clean UI using Streamlit
+
