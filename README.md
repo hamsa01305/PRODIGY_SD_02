@@ -12,9 +12,16 @@ https://appigysd02-4c57mlvsfvbcjaja5wzmcq.streamlit.app/
 
 ## Technologies Used
 
+
 Python
+
+
 Streamlit
+
+
 Random Module
+
+
 
 ## Features
 
